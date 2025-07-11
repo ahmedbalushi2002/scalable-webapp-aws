@@ -55,4 +55,24 @@ my-alb-1848665182.ap-south-1.elb.amazonaws.com ( Application load balancer link 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ahmedbalushi2002/scalable-webapp-aws.git
+
+refrences: 
+
+    Amazon EC2 (Elastic Compute Cloud)
+    https://docs.aws.amazon.com/ec2/index.html
+
+    Application Load Balancer (ALB)
+    https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
+
+    Amazon EC2 Auto Scaling
+    https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
+
+    AWS IAM Roles
+    https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
+
+    Amazon CloudWatch
+    https://docs.aws.amazon.com/cloudwatch/index.html
+
+    Amazon Simple Notification Service (SNS)
+    https://docs.aws.amazon.com/sns/index.html
    cd scalable-webapp-aws
