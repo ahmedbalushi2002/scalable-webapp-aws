@@ -50,5 +50,5 @@ This project demonstrates the deployment of a scalable and highly available web 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/scalable-webapp-aws.git
+   git clone https://github.com/ahmedbalushi2002/scalable-webapp-aws.git
    cd scalable-webapp-aws
