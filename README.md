@@ -55,6 +55,7 @@ my-alb-1848665182.ap-south-1.elb.amazonaws.com ( Application load balancer link 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ahmedbalushi2002/scalable-webapp-aws.git
+   cd scalable-webapp-aws
 
 refrences: 
 
@@ -75,4 +76,3 @@ refrences:
 
     Amazon Simple Notification Service (SNS)
     https://docs.aws.amazon.com/sns/index.html
-   cd scalable-webapp-aws
