@@ -3,7 +3,8 @@
 ## Project Overview
 This project demonstrates the deployment of a scalable and highly available web application on AWS using EC2 instances, Application Load Balancer (ALB), and Auto Scaling Groups (ASG). The architecture is designed to handle varying traffic loads by dynamically scaling compute resources while ensuring security and cost optimization.
 
-link: http://65.2.5.167/  (Project Link)
+
+my-alb-1848665182.ap-south-1.elb.amazonaws.com ( Application load balancer link )
 
 
 ---
